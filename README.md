@@ -3,7 +3,8 @@ This project is a Hotel Management System developed in Java Swing, designed to h
 It also integrates JavaMail API to send verification codes via email directly to customers.
 
 # LOGIN
-![Screenshot 2025-07-01 153813](https://github.com/user-attachments/assets/346138a8-3f0a-44f2-ac34-37ea3f8dabc2)
+![Screenshot 2025-07-01 153813](https://github.com/user-attachments/assets/bad856fa-642d-4b97-b575-95f2cd15624c)
+
 # SIGN UP
 ![Screenshot 2025-07-01 153834](https://github.com/user-attachments/assets/cfaa71c3-ef62-4441-9103-9fd88d186a9e)
 # FORGOT PASSWORD
