@@ -6,20 +6,25 @@ It also integrates JavaMail API to send verification codes via email directly to
 ![Screenshot 2025-07-01 153813](https://github.com/user-attachments/assets/bad856fa-642d-4b97-b575-95f2cd15624c)
 
 # SIGN UP
-![Screenshot 2025-07-01 153834](https://github.com/user-attachments/assets/cfaa71c3-ef62-4441-9103-9fd88d186a9e)
+![Screenshot 2025-07-01 153834](https://github.com/user-attachments/assets/fd42b0cb-a8d6-4b3b-b6d4-6bd206b020ba)
+
 # FORGOT PASSWORD
-![Screenshot 2025-07-01 153850](https://github.com/user-attachments/assets/c568dd6b-1950-4d09-9687-c98785b63fe6)
+![Screenshot 2025-07-01 153850](https://github.com/user-attachments/assets/fdae517a-253e-4cd3-84dc-c707bfc0f06d)
+
 # MANAGE ROOMS
-![Screenshot 2025-07-01 153947](https://github.com/user-attachments/assets/5795ee39-560d-4923-8723-576e4796902c)
+![Screenshot 2025-07-01 153947](https://github.com/user-attachments/assets/a56643cc-bd88-47ac-8548-b1dabbbbfff1)
+
 # CHECK IN
-![Screenshot 2025-07-01 154002](https://github.com/user-attachments/assets/82d7256f-8581-4738-b41e-b98676be45ba)
+![Screenshot 2025-07-01 154002](https://github.com/user-attachments/assets/735379c2-e1f1-4825-9a1e-a20f57ebedaa)
+
 # CHECK OUT 
-![Screenshot 2025-07-01 154014](https://github.com/user-attachments/assets/b05bc4d3-4e6a-4567-991c-d702c2da2874)
+![Screenshot 2025-07-01 154014](https://github.com/user-attachments/assets/e50a8639-176c-4d44-88f0-fcbbdb0c8785)
+
 # DETAIL BILL
+![Screenshot 2025-07-01 154029](https://github.com/user-attachments/assets/912c4d12-bd9f-4c0f-8848-060cdf4c19ac)
 
-![Screenshot 2025-07-01 154029](https://github.com/user-attachments/assets/bd0a76b1-161e-4303-a5c5-0cfb2b26a393)
+![Calque 1](https://github.com/user-attachments/assets/bd874b81-280f-4967-92fa-d5b24f0ee6cf)
 
-![Calque 1](https://github.com/user-attachments/assets/ecb0f3e1-4409-4682-aa1b-e82c77fca8a6)
 
 # Features
 ## Room Management:
